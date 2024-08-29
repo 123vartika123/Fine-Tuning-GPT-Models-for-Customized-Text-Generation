@@ -60,13 +60,10 @@ Coherence Similarity: 0.9468
 Relevance Similarity: 0.4222  
 Creativity Entropy: 3.1699
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your-email@example.com).
+For questions or feedback, please contact [Vartika](mailto:kes.vantika1@gmail.com).
+Linkedin: https://www.linkedin.com/in/vartika-kesarwani-297650202/ 
 
 ---
 
