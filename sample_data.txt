@@ -1,0 +1,5 @@
+Hello, how are you today?
+The weather is great today, isn’t it?
+I am learning how to fine-tune a GPT model.
+Transformers are really powerful for NLP tasks.
+Fine-tuning models can help them perform better on specific tasks.
